@@ -41,6 +41,10 @@ This repository documents my journey of revising Python fundamentals through dai
   * continue
   * pass
 
+## Day 4: String basics
+
+* slicing and indexing
+
 ## 💡 Key Concepts Learned
 
 * Variables are references to objects.

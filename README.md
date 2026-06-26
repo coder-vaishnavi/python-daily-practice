@@ -45,7 +45,7 @@ This repository documents my journey of revising Python fundamentals through dai
 
 * slicing and indexing
 
-## Day 5: String basics
+## Day 5: String basics date 26/06/26
 * practice questions
 
 ## 💡 Key Concepts Learned

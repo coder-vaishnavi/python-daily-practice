@@ -1,0 +1,7 @@
+# Take a user input string and check if it is a palindrome (same forwards and backwards).
+text = input("Enter a string: ").lower()
+
+if text == text[::-1]:
+    print("Palindrome")
+else:
+    print("Not a palindrome")

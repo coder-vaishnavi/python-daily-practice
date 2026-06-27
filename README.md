@@ -48,6 +48,11 @@ This repository documents my journey of revising Python fundamentals through dai
 ## Day 5: String basics date 26/06/26
 * practice questions
 
+## Day-6: string method and f-string 27/06/26
+
+* practice 3 questions
+
+
 ## 💡 Key Concepts Learned
 
 * Variables are references to objects.

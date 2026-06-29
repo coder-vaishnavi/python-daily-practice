@@ -58,6 +58,7 @@ This repository documents my journey of revising Python fundamentals through dai
 * Recursion in Python
 * Modules and Pip – Using External Libraries
 * Variable Scope and Docstrings
+
 ## Day-9: List 29/06/26
 * Introduction to Lists
 * List Methods

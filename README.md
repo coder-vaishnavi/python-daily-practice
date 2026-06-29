@@ -51,6 +51,16 @@ This repository documents my journey of revising Python fundamentals through dai
 ## Day-6: string method and f-string 27/06/26
 
 * practice 3 questions
+## Day-8: function and recursion 28/06/26
+* Defining Functions in Python
+* Function Arguments & Return Values
+* Lambda Functions in Python
+* Recursion in Python
+* Modules and Pip – Using External Libraries
+* Variable Scope and Docstrings
+## Day-9: List 29/06/26
+* Introduction to Lists
+* List Methods
 
 
 ## 💡 Key Concepts Learned

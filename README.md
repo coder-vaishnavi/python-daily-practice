@@ -62,8 +62,9 @@ This repository documents my journey of revising Python fundamentals through dai
 ## Day-9: List 29/06/26
 * Introduction to Lists
 * List Methods
-
-
+## Day-10: List 30/06/26
+* Tuples and Operations on Tuples
+* Sets and Set Methods
 ## 💡 Key Concepts Learned
 
 * Variables are references to objects.

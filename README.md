@@ -58,7 +58,7 @@ This repository documents my journey of revising Python fundamentals through dai
 * Recursion in Python
 * Modules and Pip – Using External Libraries
 * Variable Scope and Docstrings
-
+## starting DSA
 ## Day-9: List 29/06/26
 * Introduction to Lists
 * List Methods
@@ -66,6 +66,8 @@ This repository documents my journey of revising Python fundamentals through dai
 * Tuples and Operations on Tuples
 * Sets and Set Methods
 * Dictionaries and Dictionary Methods
+## Day-11: List 01/07/26
+* solved Questions on DSA
 ## 💡 Key Concepts Learned
 
 * Variables are references to objects.

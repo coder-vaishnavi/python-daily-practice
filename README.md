@@ -68,6 +68,12 @@ This repository documents my journey of revising Python fundamentals through dai
 * Dictionaries and Dictionary Methods
 ## Day-11: List 01/07/26
 * solved Questions on DSA
+## Day-11: List 02/07/26
+* Learned multiple ways to reverse a list without using reverse() or slicing.
+* Practiced using for loops, while loops, insert(), and the two-pointer swapping technique.
+* Understood how range(start, stop, step) works for reverse traversal.
+* Learned the difference between ordered (list, tuple) and unordered (set) data types.
+* Strengthened understanding of list operations like append(), insert(), pop(), and len().
 ## 💡 Key Concepts Learned
 
 * Variables are references to objects.

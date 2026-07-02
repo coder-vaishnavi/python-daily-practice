@@ -74,6 +74,7 @@ This repository documents my journey of revising Python fundamentals through dai
 * Understood how range(start, stop, step) works for reverse traversal.
 * Learned the difference between ordered (list, tuple) and unordered (set) data types.
 * Strengthened understanding of list operations like append(), insert(), pop(), and len().
+* solved LeetCode #217 problem 
 ## 💡 Key Concepts Learned
 
 * Variables are references to objects.

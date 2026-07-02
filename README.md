@@ -68,7 +68,7 @@ This repository documents my journey of revising Python fundamentals through dai
 * Dictionaries and Dictionary Methods
 ## Day-11: List 01/07/26
 * solved Questions on DSA
-## Day-11: List 02/07/26
+## Day-12: List 02/07/26
 * Learned multiple ways to reverse a list without using reverse() or slicing.
 * Practiced using for loops, while loops, insert(), and the two-pointer swapping technique.
 * Understood how range(start, stop, step) works for reverse traversal.

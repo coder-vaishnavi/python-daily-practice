@@ -75,6 +75,8 @@ This repository documents my journey of revising Python fundamentals through dai
 * Learned the difference between ordered (list, tuple) and unordered (set) data types.
 * Strengthened understanding of list operations like append(), insert(), pop(), and len().
 * solved LeetCode #217 problem 
+## Day-13: List 03/07/26
+* 
 ## 💡 Key Concepts Learned
 
 * Variables are references to objects.

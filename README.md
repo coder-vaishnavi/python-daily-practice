@@ -76,7 +76,8 @@ This repository documents my journey of revising Python fundamentals through dai
 * Strengthened understanding of list operations like append(), insert(), pop(), and len().
 * solved LeetCode #217 problem 
 ## Day-13: List 03/07/26
-* 
+* Solved the Second Largest Element problem using for loops without sort().
+* Learned O(n) time complexity 
 ## 💡 Key Concepts Learned
 
 * Variables are references to objects.

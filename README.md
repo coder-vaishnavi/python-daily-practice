@@ -78,8 +78,9 @@ This repository documents my journey of revising Python fundamentals through dai
 ## Day-13: List 03/07/26
 * Solved the Second Largest Element problem using for loops without sort().
 * Learned O(n) time complexity 
-## 💡 Key Concepts Learned
 * solved LeetCode #414 problem
+## 💡 Key Concepts Learned
+
 * Variables are references to objects.
 * `/` performs float division.
 * `//` performs integer division.

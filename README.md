@@ -79,8 +79,14 @@ This repository documents my journey of revising Python fundamentals through dai
 * Solved the Second Largest Element problem using for loops without sort().
 * Learned O(n) time complexity 
 * solved LeetCode #414 problem
+## Day-14: List 04/07/26
+* Solved LeetCode #169 – Majority Element.
+* Learned frequency counting using Python dictionaries.
+* Solved array practice problems:
+  - Find the Smallest Element
+  - Find the Difference Between the Largest and Smallest Element
+* Practiced optimizing time complexity from **O(n²)** to **O(n)**.
 ## 💡 Key Concepts Learned
-
 * Variables are references to objects.
 * `/` performs float division.
 * `//` performs integer division.

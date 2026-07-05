@@ -86,6 +86,10 @@ This repository documents my journey of revising Python fundamentals through dai
   - Find the Smallest Element
   - Find the Difference Between the Largest and Smallest Element
 * Practiced optimizing time complexity from **O(n²)** to **O(n)**.
+## Day 15 (05/07/26)
+- Solved the Move Zeroes problem using the Two Pointer technique.
+- Practiced in-place list modification without using extra space.
+- #283 problem solved on leetcode
 ## 💡 Key Concepts Learned
 * Variables are references to objects.
 * `/` performs float division.

@@ -90,6 +90,10 @@ This repository documents my journey of revising Python fundamentals through dai
 - Solved the Move Zeroes problem using the Two Pointer technique.
 - Practiced in-place list modification without using extra space.
 - #283 problem solved on leetcode
+## Day 16 (06/07/26)
+- Solved LeetCode #27 – Remove Element.
+- Practiced the Two Pointer technique for in-place list modification.
+- Learned how to overwrite valid elements without removing items from the list.
 ## 💡 Key Concepts Learned
 * Variables are references to objects.
 * `/` performs float division.

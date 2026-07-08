@@ -94,6 +94,11 @@ This repository documents my journey of revising Python fundamentals through dai
 - Solved LeetCode #27 – Remove Element.
 - Practiced the Two Pointer technique for in-place list modification.
 - Learned how to overwrite valid elements without removing items from the list.
+## Day 17 (07/07/26)
+- Solved LeetCode #26 – Remove Duplicates from Sorted Array.
+- Solved LeetCode #1480 – Running Sum of 1D Array.
+- Practiced the Two Pointer technique for in-place list modification.
+- Learned the Prefix Sum pattern by computing running sums.
 ## 💡 Key Concepts Learned
 * Variables are references to objects.
 * `/` performs float division.

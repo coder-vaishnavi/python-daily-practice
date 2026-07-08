@@ -99,6 +99,10 @@ This repository documents my journey of revising Python fundamentals through dai
 - Solved LeetCode #1480 – Running Sum of 1D Array.
 - Practiced the Two Pointer technique for in-place list modification.
 - Learned the Prefix Sum pattern by computing running sums.
+## Day 18 (08/07/26)
+- Solved LeetCode #1732 – Find the Highest Altitude.
+- Practiced the Prefix Sum pattern using a running altitude calculation.
+- Learned how to track the maximum value while traversing a list.
 ## 💡 Key Concepts Learned
 * Variables are references to objects.
 * `/` performs float division.

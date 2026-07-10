@@ -9,3 +9,11 @@ for i in range(len(nums)):
         if nums[i] + nums[j] == target:
             print(i,j)
 # time complexity is On^2
+#for time complexity O(n)
+hash_map = {}
+for i in range(len(nums)):
+    sum = target - nums[i]
+    if sum in hash_map:
+        print(f"hash_map O(n) solution {hash_map[sum],i}")
+    else:
+        hash_map[nums[i]] = i

@@ -108,6 +108,12 @@ This repository documents my journey of revising Python fundamentals through dai
 - Practiced the Prefix Sum technique to optimize a brute-force O(n²) solution to O(n).
 - Learned how to maintain left and right running sums efficiently.
 - Learned Python's `sum()` and `enumerate()` functions for cleaner and more readable code.
+## Day 20 (10/07/26)
+- Solved LeetCode #1 – Two Sum.
+- Learned the Hash Map (Dictionary) technique for fast lookups.
+- Understood the concept of finding the complement (`target - current_element`).
+- Practiced storing elements as `number → index` in a dictionary.
+- Optimized the brute-force solution from **O(n²)** to **O(n)** time complexity.
 ## 💡 Key Concepts Learned
 * Variables are references to objects.
 * `/` performs float division.

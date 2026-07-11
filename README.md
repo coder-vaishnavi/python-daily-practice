@@ -114,6 +114,9 @@ This repository documents my journey of revising Python fundamentals through dai
 - Understood the concept of finding the complement (`target - current_element`).
 - Practiced storing elements as `number → index` in a dictionary.
 - Optimized the brute-force solution from **O(n²)** to **O(n)** time complexity.
+## Day 21 (11/07/26)
+- Solved LeetCode #242 – Valid Anagram.
+- Practiced the Hash Map (Dictionary) technique for frequency counting.
 ## 💡 Key Concepts Learned
 * Variables are references to objects.
 * `/` performs float division.

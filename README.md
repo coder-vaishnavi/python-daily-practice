@@ -122,7 +122,7 @@ This repository documents my journey of revising Python fundamentals through dai
 - Practiced traversing 2D arrays (matrices) using nested loops.
 - Learned how to calculate row-wise sums and determine the maximum wealth.
 - Strengthened understanding of matrix traversal using `accounts[i][j]`.
-- Improved understanding of **O(m × n)** time complexity and **O(1)** space complexity.
+- Improved understanding of **O(m × n)** time complexity.
 ## 💡 Key Concepts Learned
 * Variables are references to objects.
 * `/` performs float division.

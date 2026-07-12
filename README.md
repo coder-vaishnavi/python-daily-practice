@@ -117,6 +117,12 @@ This repository documents my journey of revising Python fundamentals through dai
 ## Day 21 (11/07/26)
 - Solved LeetCode #242 – Valid Anagram.
 - Practiced the Hash Map (Dictionary) technique for frequency counting.
+## Day 22 (12/07/26)
+- Solved LeetCode #1672 – Richest Customer Wealth.
+- Practiced traversing 2D arrays (matrices) using nested loops.
+- Learned how to calculate row-wise sums and determine the maximum wealth.
+- Strengthened understanding of matrix traversal using `accounts[i][j]`.
+- Improved understanding of **O(m × n)** time complexity and **O(1)** space complexity.
 ## 💡 Key Concepts Learned
 * Variables are references to objects.
 * `/` performs float division.

@@ -123,6 +123,10 @@ This repository documents my journey of revising Python fundamentals through dai
 - Learned how to calculate row-wise sums and determine the maximum wealth.
 - Strengthened understanding of matrix traversal using `accounts[i][j]`.
 - Improved understanding of **O(m × n)** time complexity.
+## Day 23 (13/07/26)
+- Solved LeetCode #389 – Find the Difference.
+- Practiced Hash Map (Dictionary) frequency counting.
+- Improved understanding of **O(n)** time complexity and debugging skills.
 ## 💡 Key Concepts Learned
 * Variables are references to objects.
 * `/` performs float division.

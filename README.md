@@ -131,9 +131,7 @@ This repository documents my journey of revising Python fundamentals through dai
 * `break` exits a loop.
 * `continue` skips the current iteration.
 * `pass` acts as a placeholder statement.
-
 ## 🚀 Goal
-
 * Strengthen Python Fundamentals
 * Improve Problem-Solving Skills
 * Build Consistency Through Daily Practice

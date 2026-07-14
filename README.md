@@ -127,6 +127,11 @@ This repository documents my journey of revising Python fundamentals through dai
 - Solved LeetCode #389 – Find the Difference.
 - Practiced Hash Map (Dictionary) frequency counting.
 - Improved understanding of **O(n)** time complexity and debugging skills.
+## Day 24 (14/07/26)
+- Solved LeetCode #349 – Intersection of Two Arrays.
+- Practiced Hash Set to optimize from **O(n²)** to **O(n + m)**.
+- Learned to remove duplicates using `set()` and perform efficient lookups.
+- Improved understanding of time complexity optimization using hashing.
 ## 💡 Key Concepts Learned
 * Variables are references to objects.
 * `/` performs float division.

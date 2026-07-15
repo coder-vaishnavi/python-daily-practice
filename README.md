@@ -132,6 +132,9 @@ This repository documents my journey of revising Python fundamentals through dai
 - Practiced Hash Set to optimize from **O(n²)** to **O(n + m)**.
 - Learned to remove duplicates using `set()` and perform efficient lookups.
 - Improved understanding of time complexity optimization using hashing.
+## Day 25 (15/07/26)
+- Solved LeetCode #268 – Missing Number.
+- Practiced Hash Map approach.
 ## 💡 Key Concepts Learned
 * Variables are references to objects.
 * `/` performs float division.

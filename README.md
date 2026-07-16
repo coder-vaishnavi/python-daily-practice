@@ -135,6 +135,9 @@ This repository documents my journey of revising Python fundamentals through dai
 ## Day 25 (15/07/26)
 - Solved LeetCode #268 – Missing Number.
 - Practiced Hash Map approach.
+## Day 26 (16/07/26)
+- Solved LeetCode #121 – Best Time to Buy and Sell Stock.
+- Learned the Greedy approach by tracking the minimum buying price and maximum profit.
 ## 💡 Key Concepts Learned
 * Variables are references to objects.
 * `/` performs float division.

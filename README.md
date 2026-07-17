@@ -13,9 +13,7 @@ This repository documents my journey of revising Python fundamentals through dai
 * Running Python Programs
 * Understanding Python Syntax
 * Input and Output
-
 ### Day 2: Python Basics & Decision Making
-
 * Variables and Data Types
 * Type Casting
 * Operators
@@ -26,9 +24,7 @@ This repository documents my journey of revising Python fundamentals through dai
   * if-else
   * if-elif-else
   * Match Case
-
 ### Day 3: Loops
-
 * For Loops
 * While Loops
 * Range Function
@@ -40,16 +36,11 @@ This repository documents my journey of revising Python fundamentals through dai
   * break
   * continue
   * pass
-
 ## Day 4: String basics
-
 * slicing and indexing
-
 ## Day 5: String basics date 26/06/26
 * practice questions
-
 ## Day-6: string method and f-string 27/06/26
-
 * practice 3 questions
 ## Day-8: function and recursion 28/06/26
 * Defining Functions in Python

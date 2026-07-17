@@ -138,6 +138,12 @@ This repository documents my journey of revising Python fundamentals through dai
 ## Day 26 (16/07/26)
 - Solved LeetCode #121 – Best Time to Buy and Sell Stock.
 - Learned the Greedy approach by tracking the minimum buying price and maximum profit.
+## Day 27 (17/07/26)
+- Solved LeetCode #53 – Maximum Subarray (Kadane's Algorithm).
+- Solved LeetCode #55 – Jump Game (Greedy).
+- Learned Kadane's Algorithm by deciding whether to continue the current subarray or start a new one.
+- Learned the Greedy "Farthest Reach" strategy by tracking the maximum reachable index in Jump Game.
+- Understood Python's `for...else` statement and when it executes.
 ## 💡 Key Concepts Learned
 * Variables are references to objects.
 * `/` performs float division.

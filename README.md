@@ -135,6 +135,11 @@ This repository documents my journey of revising Python fundamentals through dai
 - Learned Kadane's Algorithm by deciding whether to continue the current subarray or start a new one.
 - Learned the Greedy "Farthest Reach" strategy by tracking the maximum reachable index in Jump Game.
 - Understood Python's `for...else` statement and when it executes.
+## Day 28 (18/07/26)
+- Solved LeetCode #45 – Jump Game II.
+- Learned the Greedy approach using `current_end` and `farthest`.
+- Understood how to find the minimum number of jumps.
+
 ## 💡 Key Concepts Learned
 * Variables are references to objects.
 * `/` performs float division.

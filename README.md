@@ -139,7 +139,11 @@ This repository documents my journey of revising Python fundamentals through dai
 - Solved LeetCode #45 – Jump Game II.
 - Learned the Greedy approach using `current_end` and `farthest`.
 - Understood how to find the minimum number of jumps.
-
+## Day 29 (19/07/26)
+- Solved LeetCode #455 – Assign Cookies using Greedy + Two Pointers.
+- Learned how sorting helps maximize the number of satisfied children.
+- Understood when to move one pointer versus both pointers.
+- Practiced the optimal solution with **O(n log n + m log m)** time complexity.
 ## 💡 Key Concepts Learned
 * Variables are references to objects.
 * `/` performs float division.

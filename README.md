@@ -144,6 +144,11 @@ This repository documents my journey of revising Python fundamentals through dai
 - Learned how sorting helps maximize the number of satisfied children.
 - Understood when to move one pointer versus both pointers.
 - Practiced the optimal solution with **O(n log n + m log m)** time complexity.
+## Day 30 (20/07/26)
+- Solved LeetCode #50 – Pow(x, n) using Binary Exponentiation.
+- Solved LeetCode #2965 – Find Missing and Repeated Values using a Hash Map.
+- Learned Binary Exponentiation, Hash Maps, and Frequency Counting.
+- Improved understanding of time optimization (O(log n)) and `dict.get()` in Python.
 ## 💡 Key Concepts Learned
 * Variables are references to objects.
 * `/` performs float division.

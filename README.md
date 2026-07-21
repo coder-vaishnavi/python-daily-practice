@@ -149,6 +149,11 @@ This repository documents my journey of revising Python fundamentals through dai
 - Solved LeetCode #2965 – Find Missing and Repeated Values using a Hash Map.
 - Learned Binary Exponentiation, Hash Maps, and Frequency Counting.
 - Improved understanding of time optimization (O(log n)) and `dict.get()` in Python.
+## Day 31 (21/07/26)
+- Solved LeetCode #136 – Single Number using a Hash Map.
+- Solved LeetCode #88 – Merge Sorted Array (Brute Force).
+- Learned the optimal Three Pointer approach for in-place merging.
+- Improved understanding of Hash Maps, Two Pointers, and array manipulation.
 ## 💡 Key Concepts Learned
 * Variables are references to objects.
 * `/` performs float division.

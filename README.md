@@ -154,6 +154,11 @@ This repository documents my journey of revising Python fundamentals through dai
 - Solved LeetCode #88 – Merge Sorted Array (Brute Force).
 - Learned the optimal Three Pointer approach for in-place merging.
 - Improved understanding of Hash Maps, Two Pointers, and array manipulation.
+## Day 32 (22/07/26)
+- Solved LeetCode #11 (Container With Most Water) and #75 (Sort Colors).
+- Learned the Two Pointer technique and the Dutch National Flag Algorithm.
+- Understood in-place array manipulation for optimal O(n) solutions.
+- Strengthened problem-solving skills using pointer-based optimization.
 ## 💡 Key Concepts Learned
 * Variables are references to objects.
 * `/` performs float division.

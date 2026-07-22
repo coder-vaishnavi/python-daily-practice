@@ -1,7 +1,7 @@
 # 🐍 Python Revision Journey
 
 Welcome to my Python Revision Repository!
-
+👩‍💻 **LeetCode Profile:** https://leetcode.com/u/coder-vaishnavi/
 This repository documents my journey of revising Python fundamentals through daily practice, problem-solving, and hands-on coding exercises.
 
 ## 📚 Learning Progress

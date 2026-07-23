@@ -159,6 +159,11 @@ This repository documents my journey of revising Python fundamentals through dai
 - Learned the Two Pointer technique and the Dutch National Flag Algorithm.
 - Understood in-place array manipulation for optimal O(n) solutions.
 - Strengthened problem-solving skills using pointer-based optimization.
+## Day 33 (23/07/26)
+- Solved LeetCode #15 – 3Sum.
+- Learned the Sorting + Two Pointer approach to reduce O(n³) to O(n²).
+- Understood how skipping duplicate elements avoids repeated triplets.
+- Strengthened problem-solving skills with two pointers and array patterns.
 ## 💡 Key Concepts Learned
 * Variables are references to objects.
 * `/` performs float division.

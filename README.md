@@ -163,7 +163,9 @@ This repository documents my journey of revising Python fundamentals through dai
 - Solved LeetCode #15 – 3Sum.
 - Learned the Sorting + Two Pointer approach to reduce O(n³) to O(n²).
 - Understood how skipping duplicate elements avoids repeated triplets.
-- Strengthened problem-solving skills with two pointers and array patterns.
+## Day 34 (24/07/26)
+- Solved LeetCode #18 – 4Sum.
+- Learned how to extend the 3Sum pattern by fixing two elements and using the Two Pointer approach.
 ## 💡 Key Concepts Learned
 * Variables are references to objects.
 * `/` performs float division.

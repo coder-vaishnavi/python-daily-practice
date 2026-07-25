@@ -166,6 +166,11 @@ This repository documents my journey of revising Python fundamentals through dai
 ## Day 34 (24/07/26)
 - Solved LeetCode #18 – 4Sum.
 - Learned how to extend the 3Sum pattern by fixing two elements and using the Two Pointer approach.
+## Day 35 (25/07/26)
+- Solved LeetCode #49 – Group Anagrams using HashMap (Dictionary) and Sorting.
+- Learned how to generate a common key with `"".join(sorted(word))` to group anagrams efficiently.
+- Solved LeetCode #9 – Palindrome Number by reversing the integer and comparing it with the original number.
+- Strengthened understanding of HashMaps, String manipulation, Sorting, Integer reversal, and debugging logical errors.
 ## 💡 Key Concepts Learned
 * Variables are references to objects.
 * `/` performs float division.

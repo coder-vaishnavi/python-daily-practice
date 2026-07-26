@@ -170,7 +170,9 @@ This repository documents my journey of revising Python fundamentals through dai
 - Solved LeetCode #49 – Group Anagrams using HashMap (Dictionary) and Sorting.
 - Learned how to generate a common key with `"".join(sorted(word))` to group anagrams efficiently.
 - Solved LeetCode #9 – Palindrome Number by reversing the integer and comparing it with the original number.
-- Strengthened understanding of HashMaps, String manipulation, Sorting, Integer reversal, and debugging logical errors.
+## Day 36 (26/07/26)
+- Solved LeetCode #128 – Longest Consecutive Sequence.
+- Learned the sorting-based approach to find the longest consecutive sequence and handled duplicate elements correctly.
 ## 💡 Key Concepts Learned
 * Variables are references to objects.
 * `/` performs float division.

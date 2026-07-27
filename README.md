@@ -173,6 +173,9 @@ This repository documents my journey of revising Python fundamentals through dai
 ## Day 36 (26/07/26)
 - Solved LeetCode #128 – Longest Consecutive Sequence.
 - Learned the sorting-based approach to find the longest consecutive sequence and handled duplicate elements correctly.
+## Day 37 (27/07/26)
+- Solved LeetCode #7 – Reverse Integer.
+- Learned how to reverse an integer using modulo (`%`) and integer division (`//`) operations.
 ## 💡 Key Concepts Learned
 * Variables are references to objects.
 * `/` performs float division.

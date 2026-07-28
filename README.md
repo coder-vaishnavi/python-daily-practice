@@ -176,6 +176,9 @@ This repository documents my journey of revising Python fundamentals through dai
 ## Day 37 (27/07/26)
 - Solved LeetCode #7 – Reverse Integer.
 - Learned how to reverse an integer using modulo (`%`) and integer division (`//`) operations.
+## Day 38 (28/07/26)
+- Solved LeetCode #151 – Reverse Words in a String.
+- Learned how to remove extra spaces using `split()` and `" ".join()`.
 ## 💡 Key Concepts Learned
 * Variables are references to objects.
 * `/` performs float division.

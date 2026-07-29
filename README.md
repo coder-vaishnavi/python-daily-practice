@@ -179,6 +179,9 @@ This repository documents my journey of revising Python fundamentals through dai
 ## Day 38 (28/07/26)
 - Solved LeetCode #151 – Reverse Words in a String.
 - Learned how to remove extra spaces using `split()` and `" ".join()`.
+## Day 39 (29/07/26)
+- Solved LeetCode #1910 – Remove All Occurrences of a Substring.
+- Learned how to repeatedly remove a target substring until it no longer exists in the given string.
 ## 💡 Key Concepts Learned
 * Variables are references to objects.
 * `/` performs float division.

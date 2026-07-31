@@ -185,6 +185,9 @@ This repository documents my journey of revising Python fundamentals through dai
 ## Day 40 (30/07/26)
 - Solved LeetCode #344 – Reverse String.
 - Learned the Two Pointer technique for reversing an array in-place.
+## Day 41 (31/07/26)
+- Solved LeetCode #392 – Is Subsequence.
+- Learned the Two Pointer technique for checking whether one string is a subsequence of another.
 ## 💡 Key Concepts Learned
 * Variables are references to objects.
 * `/` performs float division.

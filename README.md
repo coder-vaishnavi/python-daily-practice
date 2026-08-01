@@ -188,6 +188,8 @@ This repository documents my journey of revising Python fundamentals through dai
 ## Day 41 (31/07/26)
 - Solved LeetCode #392 – Is Subsequence.
 - Learned the Two Pointer technique for checking whether one string is a subsequence of another.
+## Day 42 (01/08/26)
+- Solved LeetCode #13 – Roman to Integer.
 ## 💡 Key Concepts Learned
 * Variables are references to objects.
 * `/` performs float division.

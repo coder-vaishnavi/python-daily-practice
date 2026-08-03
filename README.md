@@ -190,9 +190,13 @@ This repository documents my journey of revising Python fundamentals through dai
 - Learned the Two Pointer technique for checking whether one string is a subsequence of another.
 ## Day 42 (01/08/26)
 - Solved LeetCode #13 – Roman to Integer.
-## Day 43 (03/08/26)
+## Day 43  (02/08/26)
 - Solved LeetCode #905 – Sort Array By Parity.
 - Learned the Two Pointer approach to rearrange an array by placing even numbers before odd numbers in linear time.
+## Day 44 (03/08/26)
+* Solved LeetCode #977 – Squares of a Sorted Array.
+* Learned that squaring a sorted array can change the order because of negative numbers, and implemented a solution by squaring each element and sorting the result.
+
 ## 💡 Key Concepts Learned
 * Variables are references to objects.
 * `/` performs float division.

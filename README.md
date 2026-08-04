@@ -196,7 +196,9 @@ This repository documents my journey of revising Python fundamentals through dai
 ## Day 44 (03/08/26)
 * Solved LeetCode #977 – Squares of a Sorted Array.
 * Learned that squaring a sorted array can change the order because of negative numbers, and implemented a solution by squaring each element and sorting the result.
-
+## Day 45 (04/08/26)
+- Solved LeetCode #287 – Find the Duplicate Number using Floyd's Tortoise and Hare (Cycle Detection) algorithm.
+- Learned how to detect a cycle in an array to find the duplicate in **O(n)** time and **O(1)** extra space.
 ## 💡 Key Concepts Learned
 * Variables are references to objects.
 * `/` performs float division.

@@ -199,6 +199,9 @@ This repository documents my journey of revising Python fundamentals through dai
 ## Day 45 (04/08/26)
 - Solved LeetCode #287 – Find the Duplicate Number using Floyd's Tortoise and Hare (Cycle Detection) algorithm.
 - Learned how to detect a cycle in an array to find the duplicate in **O(n)** time and **O(1)** extra space.
+## Day 46 (05/08/26)
+- Solved LeetCode #442 – Find All Duplicates in an Array.
+- Used a HashMap (dictionary) to count frequencies and return all duplicate elements.
 ## 💡 Key Concepts Learned
 * Variables are references to objects.
 * `/` performs float division.

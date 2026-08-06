@@ -202,6 +202,9 @@ This repository documents my journey of revising Python fundamentals through dai
 ## Day 46 (05/08/26)
 - Solved LeetCode #442 – Find All Duplicates in an Array.
 - Used a HashMap (dictionary) to count frequencies and return all duplicate elements.
+## Day 47 (06/08/26)
+- Solved LeetCode #20 – Valid Parentheses using the Stack data structure.
+- Learned how to use a stack and a dictionary to match brackets efficiently in **O(n)** time.
 ## 💡 Key Concepts Learned
 * Variables are references to objects.
 * `/` performs float division.

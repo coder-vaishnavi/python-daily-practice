@@ -205,6 +205,9 @@ This repository documents my journey of revising Python fundamentals through dai
 ## Day 47 (06/08/26)
 - Solved LeetCode #20 – Valid Parentheses using the Stack data structure.
 - Learned how to use a stack and a dictionary to match brackets efficiently in **O(n)** time.
+## Day 48 (07/08/26)
+- Solved LeetCode #4 – Median of Two Sorted Arrays using merging and sorting.
+- Learned how to find the median for both even and odd-length arrays.
 ## 💡 Key Concepts Learned
 * Variables are references to objects.
 * `/` performs float division.

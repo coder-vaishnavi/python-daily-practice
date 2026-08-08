@@ -208,6 +208,9 @@ This repository documents my journey of revising Python fundamentals through dai
 ## Day 48 (07/08/26)
 - Solved LeetCode #4 – Median of Two Sorted Arrays using merging and sorting.
 - Learned how to find the median for both even and odd-length arrays.
+## Day 49 (08/08/26)
+- Solved LeetCode #41 – First Missing Positive using a Set.
+- Learned how to find the smallest missing positive integer in O(n) time.
 ## 💡 Key Concepts Learned
 * Variables are references to objects.
 * `/` performs float division.
